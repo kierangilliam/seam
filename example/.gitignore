@@ -1,5 +1,7 @@
 .DS_Store
-target
+/target/*
+# needed for module resolution
+!/target/lib/package.json
 node_modules
 /build
 /.svelte-kit
