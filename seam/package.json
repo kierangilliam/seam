@@ -1,0 +1,14 @@
+{
+  "name": "seam",
+  "version": "0.0.1",
+  "description": "Rust idioms in Svelte (by leveraging the Gleam programming language)",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "svelte-preprocess": "^4.9.8"
+  }
+}
